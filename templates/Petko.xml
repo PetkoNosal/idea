@@ -1,0 +1,17 @@
+<templateSet group="Petko">
+  <template name="getRreflectionField" value="final Field $variable$Field = $class$.class.getDeclaredField(&quot;$variable$&quot;);&#10;$variable$Field.setAccessible(true);&#10;&#10;final $Type$ $variable$ = ($Type$) $variable$Field.get($from$);&#10;" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="Type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="from" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="testMethod" value="@Test&#10;public void $methodName$() throws Exception {&#10;&#10;}" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
