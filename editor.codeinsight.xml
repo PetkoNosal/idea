@@ -7,8 +7,8 @@
     <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
-    <EXCLUDED_PACKAGE NAME="junit.framework.TestCase" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
