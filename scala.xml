@@ -1,7 +1,0 @@
-<application>
-  <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_ID" value="a6d100e4-da05-43c9-be34-c135248798bc" />
-    <option name="COMPILE_SERVER_SDK" value="1.8" />
-    <option name="COMPILE_SERVER_SHUTDOWN_DELAY" value="5" />
-  </component>
-</application>

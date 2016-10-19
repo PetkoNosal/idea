@@ -1,7 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '[mdsal-dom-inmemory-datastore] - .../dom/mdsal-dom-inmemory-datastore/src/test/java/org/opendaylight/controller/md/sal/dom/store/impl/InMemoryDataStoreTest.java'" />
-    <option name="defaultScopeName" value="File '[mdsal-dom-inmemory-datastore] - .../dom/mdsal-dom-inmemory-datastore/src/test/java/org/opendaylight/controller/md/sal/dom/store/impl/InMemoryDataStoreTest.java'" />
-    <option name="SEARCH_SCOPE" value="File '[mdsal-dom-inmemory-datastore] - .../dom/mdsal-dom-inmemory-datastore/src/test/java/org/opendaylight/controller/md/sal/dom/store/impl/InMemoryDataStoreTest.java'" />
-  </component>
-</application>
