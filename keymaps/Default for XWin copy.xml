@@ -13,6 +13,7 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="JumpToLastWindow" />
   <action id="PackageFile" />
   <action id="RunCoverage">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
@@ -33,6 +34,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="XDebugger.CopyWatch" />
 </keymap>
