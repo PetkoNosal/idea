@@ -1,7 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '[ietf-inet-types-2013-07-15] - .../model/ietf/ietf-inet-types-2013-07-15/src/test/java/org/opendaylight/yang/gen/v1/urn/ietf/params/xml/ns/yang/ietf/inet/types/rev130715/HostBuilderTest.java'" />
-    <option name="defaultScopeName" value="File '[ietf-inet-types-2013-07-15] - .../model/ietf/ietf-inet-types-2013-07-15/src/test/java/org/opendaylight/yang/gen/v1/urn/ietf/params/xml/ns/yang/ietf/inet/types/rev130715/HostBuilderTest.java'" />
-    <option name="SEARCH_SCOPE" value="File '[ietf-inet-types-2013-07-15] - .../model/ietf/ietf-inet-types-2013-07-15/src/test/java/org/opendaylight/yang/gen/v1/urn/ietf/params/xml/ns/yang/ietf/inet/types/rev130715/HostBuilderTest.java'" />
-  </component>
-</application>
