@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Directory '[iodl-modules-sshclient] - .../iodl-modules/ssh-client/src/main/java/tech/pantheon/iodl/modules/sshclient/management'" />
+    <option name="defaultScopeName" value="Directory '[iodl-modules-sshclient] - .../iodl-modules/ssh-client/src/main/java/tech/pantheon/iodl/modules/sshclient/management'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '[iodl-modules-sshclient] - .../iodl-modules/ssh-client/src/main/java/tech/pantheon/iodl/modules/sshclient/management'" />
   </component>
 </application>
