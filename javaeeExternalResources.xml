@@ -2,7 +2,10 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://aries.apache.org/xmlns/jpa/v2.0.0" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/864bcbb8_v2.0.0.xml" />
     <resource url="http://aries.apache.org/xmlns/transactions/v2.0.0" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/6b86f676_v2.0.0.xml" />
+    <resource url="http://cxf.apache.org/schemas/blueprint/jaxws.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/e6ef8943_jaxws.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/5b196030_cxf-beans.xsd" />
     <resource url="http://karaf.apache.org/xmlns/features/v1.3.0" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/5fccf1b5_v1.3.0.xml" />
     <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/70b89198_v1.0.0.xml" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/7752ceb7_blueprint.xsd" />
   </component>
 </application>
