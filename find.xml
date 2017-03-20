@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[iodl-southbound] - .../iodl-controller/iodl-southbound'" />
-    <option name="defaultScopeName" value="Directory '[iodl-southbound] - .../iodl-controller/iodl-southbound'" />
+    <option name="customScope" value="File '[iodl-controller-aggregator] - /home/petko/devel/iodl/iodl-controller/pom.xml'" />
+    <option name="defaultScopeName" value="File '[iodl-controller-aggregator] - /home/petko/devel/iodl/iodl-controller/pom.xml'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[iodl-southbound] - .../iodl-controller/iodl-southbound'" />
+    <option name="SEARCH_SCOPE" value="File '[iodl-controller-aggregator] - /home/petko/devel/iodl/iodl-controller/pom.xml'" />
   </component>
 </application>
