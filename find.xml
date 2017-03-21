@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[iodl-modules-parent] - /home/petko/devel/iodl/iodl-modules/pom.xml'" />
-    <option name="defaultScopeName" value="File '[iodl-modules-parent] - /home/petko/devel/iodl/iodl-modules/pom.xml'" />
+    <option name="customScope" value="File '[iodl-ssh-plugin-impl] - /home/petko/devel/iodl/iodl-controller/iodl-southbound/ssh-plugin/impl/src/test/java/tech/pantheon/iodl/southbound/ssh/cluster/AkkaTestCluster.java'" />
+    <option name="defaultScopeName" value="File '[iodl-ssh-plugin-impl] - /home/petko/devel/iodl/iodl-controller/iodl-southbound/ssh-plugin/impl/src/test/java/tech/pantheon/iodl/southbound/ssh/cluster/AkkaTestCluster.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[iodl-modules-parent] - /home/petko/devel/iodl/iodl-modules/pom.xml'" />
+    <option name="SEARCH_SCOPE" value="File '[iodl-ssh-plugin-impl] - /home/petko/devel/iodl/iodl-controller/iodl-southbound/ssh-plugin/impl/src/test/java/tech/pantheon/iodl/southbound/ssh/cluster/AkkaTestCluster.java'" />
   </component>
 </application>
