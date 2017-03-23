@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[iodl-ssh-plugin-impl] - /home/petko/devel/iodl/iodl-controller/iodl-southbound/ssh-plugin/impl'" />
-    <option name="defaultScopeName" value="Directory '[iodl-ssh-plugin-impl] - /home/petko/devel/iodl/iodl-controller/iodl-southbound/ssh-plugin/impl'" />
+    <option name="customScope" value="Directory '[iodl-southbound-aggregator] - .../iodl-controller/iodl-southbound'" />
+    <option name="defaultScopeName" value="Directory '[iodl-southbound-aggregator] - .../iodl-controller/iodl-southbound'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[iodl-ssh-plugin-impl] - /home/petko/devel/iodl/iodl-controller/iodl-southbound/ssh-plugin/impl'" />
+    <option name="SEARCH_SCOPE" value="Directory '[iodl-southbound-aggregator] - .../iodl-controller/iodl-southbound'" />
   </component>
 </application>
