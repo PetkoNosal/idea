@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[discovery-strategy] - .../iodl-controller/iodl-southbound/discovery-strategy/pom.xml'" />
-    <option name="defaultScopeName" value="File '[discovery-strategy] - .../iodl-controller/iodl-southbound/discovery-strategy/pom.xml'" />
+    <option name="customScope" value="Directory '[discovery-strategy] - .../iodl-controller/iodl-southbound/discovery-strategy'" />
+    <option name="defaultScopeName" value="Directory '[discovery-strategy] - .../iodl-controller/iodl-southbound/discovery-strategy'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[discovery-strategy] - .../iodl-controller/iodl-southbound/discovery-strategy/pom.xml'" />
+    <option name="SEARCH_SCOPE" value="Directory '[discovery-strategy] - .../iodl-controller/iodl-southbound/discovery-strategy'" />
   </component>
 </application>
