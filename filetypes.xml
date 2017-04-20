@@ -6,6 +6,7 @@
       <mapping pattern="echo" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="Properties" />
     </extensionMap>
   </component>
 </application>
