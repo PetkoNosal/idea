@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Indexing" />
-    <notification groupId="Maven Import" />
+    <notification groupId="Maven Import" displayType="NONE" />
   </component>
 </application>
