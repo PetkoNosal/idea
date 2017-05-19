@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[iodl-test-data] - .../iodl-controller/iodl-test/iodl-test-data/src/main/resources/testdata/timeseriesData/internet-traffic-data-in-bits-fr-1.json'" />
-    <option name="defaultScopeName" value="File '[iodl-test-data] - .../iodl-controller/iodl-test/iodl-test-data/src/main/resources/testdata/timeseriesData/internet-traffic-data-in-bits-fr-1.json'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[iodl-test-data] - .../iodl-controller/iodl-test/iodl-test-data/src/main/resources/testdata/timeseriesData/internet-traffic-data-in-bits-fr-1.json'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
