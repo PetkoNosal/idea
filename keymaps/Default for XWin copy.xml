@@ -24,6 +24,12 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
