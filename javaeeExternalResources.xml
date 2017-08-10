@@ -6,6 +6,7 @@
     <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/5b196030_cxf-beans.xsd" />
     <resource url="http://karaf.apache.org/xmlns/features/v1.3.0" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/5fccf1b5_v1.3.0.xml" />
     <resource url="http://karaf.apache.org/xmlns/shell/v1.1.0" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/e4dfb3be_v1.1.0.xml" />
+    <resource url="http://karaf.apache.org/xmlns/shell/v1.1.0 " location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/b716c422_v1.1.0 .xml" />
     <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/70b89198_v1.0.0.xml" />
     <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/7752ceb7_blueprint.xsd" />
   </component>
