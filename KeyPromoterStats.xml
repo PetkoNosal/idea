@@ -1,0 +1,11 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Alt+1'" value="2" />
+        <entry key="'Alt+9'" value="2" />
+        <entry key="'Ctrl+Alt+S'" value="3" />
+      </map>
+    </option>
+  </component>
+</application>
