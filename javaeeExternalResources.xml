@@ -10,6 +10,6 @@
     <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/e1f42d95_maven-4.0.0.xsd" />
     <resource url="http://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/e1f42d95_maven-4.0.0.xsd" />
     <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/70b89198_v1.0.0.xml" />
-    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/7752ceb7_blueprint.xsd" />
   </component>
 </application>
