@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../kdcm-models/common-models/pom.xml [common-models]'" />
-    <option name="defaultScopeName" value="File '.../kdcm-models/common-models/pom.xml [common-models]'" />
+    <option name="customScope" value="File '.../kdcm-models/virtual-fabric-manager/pom.xml [virtual-fabric-manager]'" />
+    <option name="defaultScopeName" value="File '.../kdcm-models/virtual-fabric-manager/pom.xml [virtual-fabric-manager]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../kdcm-models/common-models/pom.xml [common-models]'" />
+    <option name="SEARCH_SCOPE" value="File '.../kdcm-models/virtual-fabric-manager/pom.xml [virtual-fabric-manager]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
