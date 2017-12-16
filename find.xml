@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../kdcm-common/pom.xml [kdcm-common]'" />
-    <option name="defaultScopeName" value="File '.../kdcm-common/pom.xml [kdcm-common]'" />
+    <option name="customScope" value="File '.../kdcm-it/pom.xml [kdcm-it]'" />
+    <option name="defaultScopeName" value="File '.../kdcm-it/pom.xml [kdcm-it]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../kdcm-common/pom.xml [kdcm-common]'" />
+    <option name="SEARCH_SCOPE" value="File '.../kdcm-it/pom.xml [kdcm-it]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
