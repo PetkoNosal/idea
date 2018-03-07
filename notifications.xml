@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="gerrit" displayType="NONE" />
     <notification groupId="Indexing" />
     <notification groupId="Maven Import" displayType="NONE" />
