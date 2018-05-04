@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Del">
+      <action id="GotoNextError" />
+      <action id="EditorDelete" />
+    </macro>
+  </component>
+</application>
